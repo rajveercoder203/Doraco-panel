@@ -9,7 +9,7 @@ bash <(curl -sSL https://raw.githubusercontent.com/rajveercoder203/Doraco-panel/
 
 # INSTALL NODE
 
-bash <(cul -sSl https://raw.githubusercontent.com/rajveercoder203/Doraco-panel/refs/heads/main/Node)
+bash <(curl -sSl https://raw.githubusercontent.com/rajveercoder203/Doraco-panel/refs/heads/main/Node)
 
 # PASTE YOU CONGFRIGURE
 
