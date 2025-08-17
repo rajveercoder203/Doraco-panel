@@ -18,4 +18,5 @@ bash <(cul -sSl https://raw.githubusercontent.com/rajveercoder203/Doraco-panel/r
 node .
 
 
-echo "panel made by rajverr"
+# PANEL MADE BY HOPING BOY
+
